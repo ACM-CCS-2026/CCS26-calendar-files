@@ -1,6 +1,6 @@
 # CCS26-calendar-files
 
-You can download `CCS26a.ics` and import it into your favorite calendar app. We tested the ICS file on:
+You can download `CCS26a.ics` and import it into your favorite calendar app, such as:
 * Google Calendar: Visit calendar.google.com, go to Settings > Import & Export > Select file from your computer > Import
 * Apple Calendar/Microsoft Outlook: Drag and drop the ICS file into the calendar app
 
