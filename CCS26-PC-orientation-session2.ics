@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20251211T094730Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20260105T173443Z
+DTSTART;TZID=America/New_York:20260116T110000
+DTEND;TZID=America/New_York:20260116T120000
+SUMMARY:CCS'26 PC Orientation (Session 2)
+UID:20260105T173443Z-97931978106@web-prod-us01-va1-webok-7864dddb94-7gd6r
+ 
+TZID:America/New_York
+DESCRIPTION:Zhiqiang LIN is inviting you to a scheduled Zoom meeting.\n\n
+ Join Zoom Meeting\nhttps://osu.zoom.us/j/97931978106?pwd=73L0azFdBDx58gb
+ zmGHuaJJsmr043E.1\n\nMeeting ID: 979 3197 8106\nPassword: 484496\nOne ta
+ p mobile\n+16468769923\,\,97931978106#\,\,\,\,0#\,\,484496# US (New York
+ )\n+16513728299\,\,97931978106#\,\,\,\,0#\,\,484496# US (Minnesota)\n\nD
+ ial by your location\n        +1 646 876 9923 US (New York)\n        +1 
+ 651 372 8299 US (Minnesota)\n        +1 301 715 8592 US (Washington DC)\
+ n        +1 312 626 6799 US (Chicago)\n        +1 408 638 0968 US (San J
+ ose)\n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US 
+ (Tacoma)\n        +1 346 248 7799 US (Houston)\nMeeting ID: 979 3197 810
+ 6\nPassword: 484496\nFind your local number: https://osu.zoom.us/u/abxIS
+ 4SkwV\n\nJoin by SIP:\nsip:97931978106@zoomcrc.com\n\nJoin by H.323\n144
+ .195.19.161 (US West)\n206.247.11.121 (US East)\n115.114.131.7 (India Mu
+ mbai)\n115.114.115.7 (India Hyderabad)\n159.124.15.191 (Amsterdam Nether
+ lands)\n159.124.47.249 (Germany)\n159.124.104.213 (Australia Sydney)\n15
+ 9.124.74.212 (Australia Melbourne)\n64.211.144.160 (Brazil)\n159.124.168
+ .213 (Canada Toronto)\n159.124.196.25 (Canada Vancouver)\n170.114.194.16
+ 3 (Japan Tokyo)\n147.124.100.25 (Japan Osaka)\nMeeting ID: 979 3197 8106
+ \nPassword: 484496\n\n---\nThe Ohio State University\n---\n \nPlease dir
+ ect question about this meeting to the meeting organizer.\n \nCarmenZoom
+  is a service provided by the Office of Technology and Digital Innovatio
+ n (IT.osu.edu).\n \ngo.osu.edu/SystemStatus\n614-688-4357 (HELP)\nCarmen
+ Zoom@osu.edu\n \nIf you have a disability and have trouble accessing thi
+ s content\, please call the Accessibility Help Line 614-292-5000.\n \nPr
+ ivacy: go.osu.edu/privacy\nDigital Accessibility: accessibility.osu.edu\
+ nNondiscrimination Notice (PDF): go.osu.edu/NonDiscrimination-Notice
+LOCATION:https://osu.zoom.us/j/97931978106?pwd=73L0azFdBDx58gbzmGHuaJJsmr
+ 043E.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
